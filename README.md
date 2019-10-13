@@ -1,0 +1,2 @@
+# skill-pingpong
+Opsdroid skill 
